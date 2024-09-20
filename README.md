@@ -1,1 +1,4 @@
 # gcho0819_9105_tut05
+my first repository for IDEA9103
+
+THIS IS MY FIRST LOCAL CHANGE TO REPO
